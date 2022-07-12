@@ -30,7 +30,7 @@ pytest-cov==2.8.1
 pytest-mock==1.11.2
 python-dateutil==2.6.1
 pytz==2019.3
-PyYAML==5.1.2
+PyYAML==5.4
 repoze.lru==0.7
 requests==2.22.0
 rsa==4.0
